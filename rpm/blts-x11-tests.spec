@@ -1,10 +1,10 @@
 Summary: BLTS X11 test set
 Name: blts-x11-tests
-Version: 0.0.21
+Version: 0.0.22
 Release: 1
 License: GPLv2
 Group: Development/Testing
-URL: https://github.com/mer-packages/mcts-blts
+URL: https://github.com/mer-qa/blts-x11
 Source0: %{name}-%{version}.tar.gz
 BuildRequires: libbltscommon-devel
 BuildRequires: libX11-devel
